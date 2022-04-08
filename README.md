@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jonathan-Miksis
-- 👀 I’m interested in ... making a career switch into software development and continuing to evolve my skills as a developer.
-- 🌱 I’m currently learning ... Ruby, Javascript, Ruby on Rails, Vue.js, Postgres, SQL, HTML, & CSS.
-- 💞️ I’m looking to collaborate on ... anything and everyting as I continue my journey.
-- 📫 How to reach me ... by email at jmiksis13@gmail.com!
+👋 Hi everyone, I’m @Jonathan-Miksis🤓 and I'm currently a software engineer for Winmo, a sales prospecting tool that delivers the information you need to identify opportunities and close more deals with advertisers and agencies. 
+
+💻 I'm currently using Ruby, Rails, Javascript, Vue.JS, AngularJS, and SQL, and have a passion for continuing my growth and learning opportunities 🌱 
+
+Feel free to reach me through LinkedIn www.linkedin.com/in/jonathan-miksis and checkout my website https://jonathan-miksis.github.io/
 
 <!---
 Jonathan-Miksis/Jonathan-Miksis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
